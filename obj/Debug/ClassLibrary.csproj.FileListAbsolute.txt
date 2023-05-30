@@ -10,3 +10,9 @@ E:\VisualStudioProject\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyRefere
 E:\VisualStudioProject\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 E:\VisualStudioProject\ClassLibrary\obj\Debug\ClassLibrary.dll
 E:\VisualStudioProject\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Sergey\source\repos\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Sergey\source\repos\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Sergey\source\repos\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Sergey\source\repos\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Sergey\source\repos\ClassLibrary\obj\Debug\ClassLibrary.pdb
