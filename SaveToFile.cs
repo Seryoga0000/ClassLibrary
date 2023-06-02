@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
 using System.Text;
@@ -281,6 +282,17 @@ namespace ClassLibrary
         protected virtual void OnPropertyChanged(string propertyName)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+
+        public static void SaveListToFile<T>(List<T> numbers, string filePath)
+        {
+            using (StreamWriter writer = new StreamWriter(filePath))
+            {
+                foreach (T number in numbers)
+                {
+                    writer.WriteLine(number.ToString());
+                }
+            }
         }
     }
 }
